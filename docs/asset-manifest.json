@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-AI-Resume-Analyzer/static/css/main.a465e66a.css",
+    "main.js": "/-AI-Resume-Analyzer/static/js/main.dd80abf8.js",
+    "index.html": "/-AI-Resume-Analyzer/index.html",
+    "main.a465e66a.css.map": "/-AI-Resume-Analyzer/static/css/main.a465e66a.css.map",
+    "main.dd80abf8.js.map": "/-AI-Resume-Analyzer/static/js/main.dd80abf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a465e66a.css",
+    "static/js/main.dd80abf8.js"
+  ]
+}
