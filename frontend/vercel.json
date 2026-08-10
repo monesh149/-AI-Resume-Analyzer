@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "framework": "create-react-app",
+  "rewrites": [
+    {
+      "source": "/((?!static/|favicon.ico|manifest.json|logo.png|logo2.png|robots.txt|asset-manifest.json|.*\\.).*)",
+      "destination": "/index.html"
+    }
+  ]
+}
